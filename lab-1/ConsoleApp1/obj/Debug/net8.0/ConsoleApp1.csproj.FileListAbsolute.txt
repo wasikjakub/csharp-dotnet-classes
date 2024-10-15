@@ -1,0 +1,14 @@
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
