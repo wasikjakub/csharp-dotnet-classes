@@ -1,0 +1,15 @@
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/bin/Debug/net8.0/main
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/bin/Debug/net8.0/main.deps.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/bin/Debug/net8.0/main.runtimeconfig.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/bin/Debug/net8.0/main.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/bin/Debug/net8.0/main.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.AssemblyInfoInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.AssemblyInfo.cs
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.csproj.CoreCompileInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.sourcelink.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/refint/main.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/main.genruntimeconfig.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-3/main/obj/Debug/net8.0/ref/main.dll
