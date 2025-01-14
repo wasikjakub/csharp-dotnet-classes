@@ -1,0 +1,15 @@
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/bin/Debug/net8.0/lab-8
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/bin/Debug/net8.0/lab-8.deps.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/bin/Debug/net8.0/lab-8.runtimeconfig.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/bin/Debug/net8.0/lab-8.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/bin/Debug/net8.0/lab-8.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.AssemblyInfoInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.AssemblyInfo.cs
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.csproj.CoreCompileInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.sourcelink.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/refint/lab-8.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/lab-8.genruntimeconfig.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-8/lab-8/obj/Debug/net8.0/ref/lab-8.dll

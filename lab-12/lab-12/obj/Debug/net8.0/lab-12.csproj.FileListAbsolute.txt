@@ -1,0 +1,6 @@
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-12/lab-12/obj/Debug/net8.0/lab-12.csproj.AssemblyReference.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-12/lab-12/obj/Debug/net8.0/lab-12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-12/lab-12/obj/Debug/net8.0/lab-12.AssemblyInfoInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-12/lab-12/obj/Debug/net8.0/lab-12.AssemblyInfo.cs
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-12/lab-12/obj/Debug/net8.0/lab-12.csproj.CoreCompileInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-12/lab-12/obj/Debug/net8.0/lab-12.sourcelink.json

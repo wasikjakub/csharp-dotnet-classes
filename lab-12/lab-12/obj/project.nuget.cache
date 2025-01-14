@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhApS/FW8Lk=",
+  "success": true,
+  "projectFilePath": "/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-12/lab-12/lab-12.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakubwasik/.nuget/packages/microsoft.win32.systemevents/9.0.0/microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "/Users/jakubwasik/.nuget/packages/system.drawing.common/9.0.0/system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

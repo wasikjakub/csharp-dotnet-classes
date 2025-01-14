@@ -1,0 +1,15 @@
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/bin/Debug/net8.0/lab-10
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/bin/Debug/net8.0/lab-10.deps.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/bin/Debug/net8.0/lab-10.runtimeconfig.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/bin/Debug/net8.0/lab-10.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/bin/Debug/net8.0/lab-10.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.AssemblyInfoInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.AssemblyInfo.cs
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.csproj.CoreCompileInputs.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.sourcelink.json
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/refint/lab-10.dll
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.pdb
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/lab-10.genruntimeconfig.cache
+/Users/jakubwasik/Documents/univeristy/csharp-dotnet-classes/lab-10/lab-10/obj/Debug/net8.0/ref/lab-10.dll
